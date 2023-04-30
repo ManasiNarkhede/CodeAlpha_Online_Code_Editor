@@ -12,4 +12,4 @@ You can control the size of a window with draggable button as shown below.
 Build and deploy a website, show off your work, and learn.
 
 <img width="960" alt="Screenshot (365)" src="https://user-images.githubusercontent.com/132153639/235359235-1db16a6d-364f-42ce-9f02-f4529aad1c3f.png">
-![Screenshot (364)](https://user-images.githubusercontent.com/132153639/235359241-2d0793b2-8a59-4a4f-9740-be1d80dcd77b.png)
+<img width="960" alt="Screenshot (364)" src="https://user-images.githubusercontent.com/132153639/235359269-28273857-4be8-4297-a8af-cfccc06d7f2d.png">
