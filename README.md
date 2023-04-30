@@ -1,11 +1,11 @@
 # Online Code Editor
 Online Code Editor is a development environment for front-end designers and developers. 
 
-With Online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
+With Online code editor, you can edit HTML, CSS and JavaScript code, and view the output in your browser.
 
-The window to the left is editable - edit the code to view the result in the right window. 
+The window to the left is editable - edit the code to view the output in the right window. 
 
-It allows you to write code in the browser, and see the results of it as you build.
+It allows you to write code in the browser, and see the output of it as you build.
 
 You can control the size of a window with draggable button as shown below.
 
